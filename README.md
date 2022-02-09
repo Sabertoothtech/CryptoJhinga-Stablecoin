@@ -1,7 +1,7 @@
 # JHINGA : STABLECOIN as a Service
 A fully functioning DAPP-STABLECOIN application packed with essential and enhanced features that are well tailored with your industrial and product requirements.
 
-![APP](https://github.com/Sabertoothtech/CryptoJhinga-PublicView/blob/master/videojhinga.gif)
+![APP](https://github.com/Sabertoothtech/CryptoJhinga-Stablecoin/blob/main/videojhinga.gif)
 
 
 ## Getting Started

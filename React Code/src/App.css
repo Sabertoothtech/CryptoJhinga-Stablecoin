@@ -1,0 +1,82 @@
+.Appbarcss{
+  background-color: '#FFFFFF'!important
+}
+
+body{
+  background-image: url(./bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+@media (min-width: 1536px){
+.Appbarcss {
+     max-width: 0p; 
+}
+}
+.headingHome{
+    margin-bottom: 3px;
+    line-height: 1.2;
+    font-size: 2.3rem;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1.5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.homeContainer{
+  width: 70%;
+  margin: auto;
+
+}
+
+.buttonStart{
+  box-shadow: -1px 0px 12px 6px #ecc47e;
+	background:linear-gradient(to bottom, #ffd46e 5%, #ffcc56 100%);
+	background-color:#ffd46e;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#292629 !important;
+	font-family:Verdana;
+	font-size:16px;
+	padding:17px 31px;
+	text-decoration:none;
+  text-transform: none!important;
+	text-shadow:0px 0px 0px #3b3d3b;
+  width: 11vw;
+  height:7vh;
+  margin-top: 8vh !important;
+  margin-left: 1vw;
+}
+
+.buttonStart:hover{
+  background:linear-gradient(to bottom, #ffcc56 5%, #ffd46e 100%);
+	background-color:#ffcc56;
+}
+
+.buttonStart:active{
+  position:relative;
+	top:1px;
+}
+
+.div-image-logo{
+    margin-top: 16vh;
+    /* border: 2px solid hotpink; */
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2vw;
+}
+.boldText-home{
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-css{
+  height: 150px;
+  object-fit: cover;
+  margin-left: 7vw;
+  
+}
